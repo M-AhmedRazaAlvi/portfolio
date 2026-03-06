@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.git/
+.gitignore
+README.md
+.firebaserc
+firebase.json
+*.log
+.env*
+.DS_Store
+
