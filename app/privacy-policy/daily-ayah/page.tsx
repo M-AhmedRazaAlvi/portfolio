@@ -42,7 +42,7 @@ export default function DailyAyahPrivacyPolicy() {
             <p className="text-slate-400">
               This privacy policy applies to the Daily Ayah app (hereby referred
               to as &ldquo;Application&rdquo;) for mobile devices that was
-              created by Mirza Muhammad Mohsan (hereby referred to as &ldquo;Service
+              created by Ahmed Raza Alvi (hereby referred to as &ldquo;Service
               Provider&rdquo;) as a Free service. This service is intended for
               use &ldquo;AS IS&rdquo;.
             </p>

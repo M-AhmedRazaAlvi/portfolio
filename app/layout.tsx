@@ -10,9 +10,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Mirza Muhammad Mohsan",
+  title: "Ahmed Raza Alvi",
   description:
-    "Mirza Muhammad Mohsan is a software engineer who builds accessible, inclusive products and digital experiences for the web and mobile.",
+    "Ahmed Raza Alvi is a software engineer who builds accessible, inclusive products and digital experiences for the web and mobile.",
 };
 
 export default function RootLayout({
@@ -24,8 +24,8 @@ export default function RootLayout({
     "@context": "https://schema.org",
     "@type": "Person",
     name: "Ahmed Raza Alvi",
-    url: "https://mohsindev.firebaseapp.com/",
-    image: "https://mohsindev.firebaseapp.com/images/profile.jpeg",
+    url: "https://ahmedrazaalvi.vercel.app/",
+    image: "",
     jobTitle: "Software Engineer",
     worksFor: {
       "@type": "Organization",
